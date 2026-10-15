@@ -303,7 +303,7 @@
 - [Mixed Reality Developer Conference](http://www.xrdconf.com/)
 - [Virtual Reality Developer Conference](http://www.gdconf.com/vrdc/)
 - [SIGGRAPH](https://www.siggraph.org/)
-- [Oculus Connect](https://www.oculusconnect.com/)
+- Oculus Connect — retired and rebranded to Meta Connect (oculusconnect.com is offline). On the VR industry's changing of the guard: [Valve sunsets the Index after seven years](https://calder-brief.pages.dev/valve-index-sunset-2019-2026-clearance.html)
 
 
 ## Movies / Series
